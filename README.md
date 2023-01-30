@@ -1,1 +1,1 @@
-# AnshPlayzSnakeGame
+# AnshPlayz-Snake-Game
